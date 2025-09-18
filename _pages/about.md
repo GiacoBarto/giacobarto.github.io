@@ -36,5 +36,3 @@ I got my master degree in a joint programme between the University of Trento and
 I did my Ph.D. at the Max Planck Institute for the Physics of Complex Systems in Dresden, working on Phase Separation with Christoph Weber and Frank Jülicher.
 
 I am currently doing a postdoc on active nematics with Jaume Casademunt at the University of Barcelona, supported by the Juan de la Cierva programme.
-
-{% bibliography --query @*[selected=true] %}
