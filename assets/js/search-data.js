@@ -472,25 +472,11 @@ ninja.data = [{
           window.open("mailto:%62%61%72%74%6F%6C%75%63%63%69@%75%62.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=nIgH2PQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
