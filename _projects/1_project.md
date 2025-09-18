@@ -14,7 +14,7 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Test caption
+    From : "The Droplet Size Distribution and Its Dynamics in Chemically Active Emulsions"
 </div>
 
 Inside living cells and in synthetic mixtures that mimic the primordial soup, droplets can form via phase separation. I study how active chemical reactions among the biomolecules that compose droplets affect the emulsion’s kinetics.
