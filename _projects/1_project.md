@@ -2,15 +2,15 @@
 layout: page
 title: Phase Separation in biochemistry
 description: 
-img: assets/img/Phase_separation.png
+img: assets/img/Phase_separation.jpeg
 importance: 1
 category: science
-related_publications: true
+related_publications: false
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Phase_separation.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Phase_separation.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
