@@ -1,17 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching and supervision
+title: teaching
 description: 
 nav: true
 nav_order: 6
 ---
+
+### Teaching
 
 - In 2017, I was the tutor of the course General Physics, held by Prof. Franco Dalfovo at the University of Trento. 
 
 - In the spring semester of 2020, I was the tutor of the Theoretical Biophysics course, held by Prof. Frank Jülicher at the TU Dresden. 
 
 - In the fall semester of 2025, I will be the tutor of the Mechanics laboratory course, held by Prof. Ramon Planet at the University of Barcelona.
+
+### Supervision
 
 - In 2019 I co-supervised the master student Yash Rana during his internship at MPI PKS, together with Prof. Christoph Weber. 
 
