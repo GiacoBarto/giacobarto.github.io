@@ -15,7 +15,7 @@ related_publications: false
         path="assets/img/Phase_separation.jpeg" 
         title="example image"  
         class="img-fluid rounded z-depth-1 d-block mx-auto" 
-        width="50%" %}
+        width="75%" %}
   </div>
 </div>
 <div class="caption">

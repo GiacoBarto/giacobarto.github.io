@@ -5,7 +5,7 @@ description:
 img: assets/img/Active_nematics.jpeg
 importance: 2
 category: science
-giscus_comments: true
+giscus_comments: false
 ---
 
 <div class="row">

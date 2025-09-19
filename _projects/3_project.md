@@ -5,7 +5,7 @@ description:
 img: assets/img/mixtures.jpeg
 importance: 3
 category: art
-giscus_comments: true
+giscus_comments: false
 ---
 
 <div class="row">
