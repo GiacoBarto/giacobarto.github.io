@@ -27,8 +27,8 @@
       "url": "https://web.ub.edu/web/directori/?accio=SEL&id=0wo1v0j35iosuztr&lang=en",
       "startDate": "2024-01-01",
       "endDate": "Today",
-      "summary": "Teaching mechanics laboratory in the Physics Department",
-      "highlights": ["Relativity"]
+      "summary": "I am teaching mechanics laboratory in the Physics Department",
+      "highlights": ["Hyd"]
     }
   ],
   "education": [
@@ -40,7 +40,16 @@
       "studyType": "PhD",
       "startDate": "2018-09-10",
       "endDate": "2023-02-27",
-      "courses": ["Theoretical Biophysics"]
+      "courses": ["I was the tutor of Theoretical Biophysics course held by Frank Jülicher"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2025 IG nobel Prize in Physics",
+      "date": "2025-09-18",
+      "awarder": "Annals of Improbable Research",
+      "url": "https://arstechnica.com/science/2025/09/meet-the-2025-ig-nobel-prize-winners/",
+      "summary": " for discoveries about the physics of pasta sauce, especially the phase transition that can lead to clumping, which can be a cause of unpleasantness.'"
     }
   ],
   "languages": [
