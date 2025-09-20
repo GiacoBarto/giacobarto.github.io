@@ -316,7 +316,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/cv_GB.pdf.pdf";
+            window.location.href = "/assets/pdf/cv_GB.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
