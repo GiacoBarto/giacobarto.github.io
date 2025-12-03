@@ -13,4 +13,4 @@ Starting in 2019, every summer, I organised a summer school at my former high sc
 
 ### the cacio e pepe saga
 
-In 2025, together with a dreamtime of seven friends, I published a paper on the phase behaviour of the Cacio e Pepe pasta sauce together with seven Italian friends. Major international journals wrote about our publication, including The New York Times, BBC, The New Scientist, CNN, and The Guardian. We appeared on Noos, the popular science communication show by Alberto Angela.
+In 2025, together with a dream team of seven friends, I published a paper on the phase behaviour of the Cacio e Pepe pasta sauce together with seven Italian friends. Major international journals wrote about our publication, including The New York Times, BBC, The New Scientist, CNN, and The Guardian. We appeared on Noos, the popular science communication show by Alberto Angela.
