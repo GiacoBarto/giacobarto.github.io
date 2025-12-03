@@ -11,7 +11,7 @@ nav_order: 6
 
 - In the spring semester of 2020, I was the tutor of the Theoretical Biophysics course, held by Prof. Frank Jülicher at the TU Dresden. 
 
-- In the fall semester of 2025, I will be the tutor of the Mechanics laboratory course, held by Prof. Ramon Planet at the University of Barcelona.
+- In the fall semester of 2025, I was the tutor of the Mechanics laboratory course, held by Prof. Ramon Planet at the University of Barcelona.
 
 ### supervision
 

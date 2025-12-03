@@ -19,7 +19,9 @@ giscus_comments: false
   </div>
 </div>
 <div class="caption">
-    Mixing of a passive scalar by active nematic turbulence 
+    Mixing of a passive scalar by active nematic turbulence, work in progress. 
 </div>
 
-I use hydrodynamics to study the collective migration of cohesive groups comprised of units continuously consuming chemical energy for propulsion. Spectacular manifestations of this collective motions include epithelial cell monolayers and suspensions of microtubules together with molecular motors.
+I use hydrodynamics to study the collective migration of cohesive groups comprised of units continuously consuming chemical energy for propulsion. Spectacular manifestations of this collective motions include epithelial cell monolayers and suspensions of microtubules together with molecular motors. 
+
+During my postdoc, I havs started working to unravel the potential of active nematic turbulence to mix a passive scalar (like a pollutant or a nutrient).
