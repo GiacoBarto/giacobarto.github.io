@@ -26,5 +26,5 @@ In 2025, together with a dream team of seven friends, I published a paper on the
   </div>
 </div>
 <div class="caption">
-    See "The Droplet Size Distribution and Its Dynamics in Chemically Active Emulsions" PRL, 2025
+    Fantastic illustration by Virginia Lepore @virgin.stories
 </div>
