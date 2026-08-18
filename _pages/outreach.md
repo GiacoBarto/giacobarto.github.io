@@ -13,7 +13,7 @@ Starting in 2019, every summer, I organised a summer school at my former high sc
 
 ### the cacio e pepe saga
 
-In 2025, together with a dream team of seven friends, I published a paper on the phase behaviour of the Cacio e Pepe pasta sauce together with seven Italian friends. Major international journals wrote about our publication, including The New York Times, BBC, The New Scientist, CNN, and The Guardian. We appeared on Noos, the popular science communication show by Alberto Angela. In the same year we won the IG nobel prize for Physics!
+In 2025, together with a dream team of seven friends, I published a paper on the phase behaviour of the Cacio e Pepe pasta sauce. Major international journals wrote about our publication, including The New York Times, BBC, The New Scientist, CNN, and The Guardian. We appeared on Noos, the popular science communication show by Alberto Angela. In the same year we won the IG nobel prize for Physics!
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
